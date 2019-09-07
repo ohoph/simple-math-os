@@ -1,5 +1,5 @@
 # simple-math-os
-very simple 16-bit OS that purely operates in real mide
+very simple 16-bit OS that purely operates in real mode
 for simple mathematical instructions on hex numbers written in assembly
 
 content is a collection of rewritten functions and concepts introduced by the following guides:
